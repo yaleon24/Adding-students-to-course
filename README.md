@@ -1,0 +1,2 @@
+# Adding-students-to-course
+In this program you will keep track of Students in a Course.  The maximum number of students in a course is 100.  You will keep track of the names of the students and the number of students in a course.  The main method is provided for you and you will not change anything in it.  The program will be able to add students, drop students and find out how many students are currently enrolled in the course.      
